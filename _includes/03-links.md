@@ -1,1 +1,1 @@
-[Maeganel at GitHub] (https://github.com/Maeganel)
+[Maeganel at GitHub](https://github.com/Maeganel)
