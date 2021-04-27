@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Japanese **Calligraphy**
+European **Calligraphy**
+**Writing** in *ink*
+**Writing** in *pencil*
+**Coloring** in *pencil*
+**Drawing** in *pencil*
+**Typing** on a *keyboard*
